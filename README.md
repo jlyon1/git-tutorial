@@ -9,5 +9,3 @@ hello from my branch
             (__)\       )\/\
                 ||----w |
                 ||     ||
-
-my changes
